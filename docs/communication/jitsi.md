@@ -41,6 +41,15 @@ Um teilzunehmen:
 
 **Wichtig**: Jitsi funktioniert am besten direkt im Browser. Es gibt auch Apps für Mobilgeräte, diese sind aber für das Training meist weniger gut geeignet.
 
+### Jitsi Server
+
+Es gibt eine Vielzahl von Jitsi-Servern, die von unterschiedlichen Firmen oder Organisationen betrieben werden. Ich habe Erfahrungen mit:
+
+* https://meet.jit.si: Dort kann man spontan eine Konferenz starten, oder sich eine URL reservieren.
+* Dazu passend gibt es einen Einstieg über https://moderated.jitsi.net/, wodurch man eine URL für den Moderator bekommt, samt einer URL (nur) für die Teilnehmer.
+
+Und es gibt auch die Möglichkeit, bei entsprechender technischer Expertise einen Server selbst zu betreiben.
+
 ## Nutzung im Training
 
 ### Textchat für Links

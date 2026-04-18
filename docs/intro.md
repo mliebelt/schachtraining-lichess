@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-title: Workshop am 28.11.2025
+title: Workshop am 25.04.2026
 ---
 # Workshop "Online-Training mit Lichess"
 
-Diese Datei enthält die Übersicht über den Workshop, der am 28. November 2025 mit dem Thema "Wie macht man ein (reines) Online-Training?" durchgeführt werden wird. Teilnehmer haben damit später noch die Möglichkeit, auf die Workshop-Inhalte zuzugreifen. Der Workshop findet vor Ort statt, und ist deshalb ein wenig anders strukturiert.
+Diese Datei enthält die Übersicht über den Workshop, der am 25. April 2026 mit dem Thema "Wie macht man ein (reines) Online-Training?" durchgeführt werden wird. Teilnehmer haben damit später noch die Möglichkeit, auf die Workshop-Inhalte zuzugreifen. Der Workshop findet online statt.
 
 * [Für die Teilnehmer](#für-die-teilnehmer)
 * [Übersicht Lichess und Jitsi](#übersicht-lichess-und-jitsi)
@@ -25,7 +25,7 @@ Diese Datei enthält die Übersicht über den Workshop, der am 28. November 2025
 Im Workshop werden in den 3 Unterrichtsstunden die folgenden Blöcke gemacht werden:
 
 1. Übersicht, Rundgang durch alle Tools, Konzepte.
-2. Training mit Lichess und Jitsi, Teilnehmer erfahren selbst, wie ein Training abläuft.
+2. Training mit Lichess und Jitsi, Teilnehmer erfahren selbst, wie ein Training abläuft, und auch wie die Trainingsinhalte dazu erstellt werden.
 3. Übungen, wie Training vorbereitet und durchgeführt wird.
 
 ## Für die Teilnehmer
@@ -33,8 +33,8 @@ Im Workshop werden in den 3 Unterrichtsstunden die folgenden Blöcke gemacht wer
 Teilnehmer des Workshops sollten folgende Schritte vorab durchgeführt haben:
 
 * Registrierung bei Lichess. Siehe das entsprechende [Kapitel hier](/docs/lichess.md#registrierung). Eine Anmeldung bei Lichess ist zwingend Voraussetzung für eine Teilnahme am Workshop. Einige Übungen sind erst möglich, wenn man bei Lichess registriert und angemeldet ist. (Sonst schaut man eben nur zu, kann dann höchstens als anonymer Teilnehmer teilnehmen.)
-* Wir nutzen aktuell Jitsi (statt früher Discord), von daher hat sich der Teil komplett geändert. Bei Jitsi ist keine Anmeldung notwendig, man kann einfach mit einem Link teilnehmen. Alle Details zu Jitsi und weiteren Kommunikationstools findest du im [Kommunikation-Kapitel](/docs/communication/jitsi).
-* Wir schauen dann im Workshop selbst, was von einer Anmeldung beeinflusst wird. Da der Workshop vor Ort stattfindet sind die Bedingungen ein wenig anders. Wir werden auf jeden Fall das Mikrofon bei Jitsi ausschalten, um den Workshop nicht zu stören.
+* Wir nutzen aktuell Jitsi (statt früher Discord), von daher hat sich der Teil geändert. Die wesentlichen Hinweise findet man in [Kommunikation-Kapitel](/docs/communication/jitsi). Da wir im Online-Training Zoom nutzen, ersetzt Zoom (für uns) Jitsi. Keine Vorbereitung der Teilnehmer notwendig.
+* Wir schauen dann im Workshop selbst, was von einer Anmeldung beeinflusst wird. Das ist wesentlich bei der Anmeldung in Lichess, kann aber auch eine Rolle bei Jitsi/Zoom/Discord/... spielen. 
 
 ## Übersicht Lichess und Jitsi
 
