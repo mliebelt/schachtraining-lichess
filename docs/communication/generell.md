@@ -8,16 +8,9 @@ Dieses Kapitel beschreibt die Teile, die grundsätzlich für alle Werkzeuge glei
 
 * [Installation](#installation)
 * [Aufruf und Anmeldung](#aufruf-und-anmeldung)
-* [Aufbau von Discord](#aufbau-von-discord)
-  * [Anwendung Discord](#anwendung-discord)
-  * [Browser Discord](#browser-discord)
-  * [Auswahl Server](#auswahl-server)
-* [Nutzung von Textkanälen](#nutzung-von-textkanälen)
-* [Nutzung von Sprachkanälen](#nutzung-von-sprachkanälen)
-* [Weitere Eigenschaften von Discord](#weitere-eigenschaften-von-discord)
-* [Anlegen eines Servers](#anlegen-eines-servers)
-  * [Leute einladen](#leute-einladen)
-  * [Text- und Sprachkanäle bereitstellen](#text--und-sprachkanäle-bereitstellen)
+* [Aufbau von Discord](#aufbau-des-kommunikationswerkzeugs)
+* [Notwendige Feature](#notwendige-feature)
+* [Optionale Feature](#optionale-feature)
 
 ## Installation
 
