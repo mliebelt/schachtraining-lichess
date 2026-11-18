@@ -10,8 +10,8 @@ Es stehen die folgenden Inhalte zur Verfügung:
 
 * [Übersicht über den Workshop](docs/intro.md) Der beste Einstieg in den Workshop
 * [Alles zu Lichess](docs/lichess.md) (das relevant für den Workshop ist). Eine Art Referenz, die auch unabhängig vom Workshop genutzt werden kann.
-* [Alles zu Discord](docs/discord.md) (das relevant für den Workshop ist). Das Wichtigste zu Discord an einer Stelle.
-* [Training mit Lichess und Discord](docs/training.md) Eine Art Referenz, die von den Trainingskonzepten ausgeht.
+* [Alles zur Kommunikation](docs/communication/generell.md) (das relevant für den Workshop ist). Das Wichtigste zu Kommunikations-Werkzeugen im Prinzip an einer Stelle. Dort findet man auch die anderen Werkzeuge (Jitsi, Zoom, Teams, Discord).
+* [Training mit Lichess und einem Kommunikations-Werkzeug](docs/training.md) Eine Art Referenz, die von den Trainingskonzepten ausgeht.
 * [Übungen](docs/uebungen.md) Was dann praktisch geübt werden kann.
 
 ## Konzept
