@@ -1,21 +1,21 @@
 ---
 sidebar_position: 1
-title: Workshop am 25.04.2026
+title: Workshop am 21.11.2026
 ---
 # Workshop "Online-Training mit Lichess"
 
 Diese Datei enthält die Übersicht über den Workshop, der am 25. April 2026 mit dem Thema "Wie macht man ein (reines) Online-Training?" durchgeführt werden wird. Teilnehmer haben damit später noch die Möglichkeit, auf die Workshop-Inhalte zuzugreifen. Der Workshop findet online statt.
 
 * [Für die Teilnehmer](#für-die-teilnehmer)
-* [Übersicht Lichess und Jitsi](#übersicht-lichess-und-jitsi)
+* [Übersicht Lichess und Zoom](#übersicht-lichess-und-zoom)
 	* [Übersicht Lichess](#übersicht-lichess)
 		* [Aufruf von Lichess](#aufruf-von-lichess)
 		* [Registrierung](#registrierung)
 		* [Oberfläche von Lichess](#oberfläche-von-lichess)
-	* [Aufruf von Jitsi](#aufruf-von-jitsi)
+	* [Aufruf von Zoom](#aufruf-von-zoom)
 	* [Weitere Bestandteile](#weitere-bestandteile)
-* [Installation Software für Lichess und Jitsi](#installation-software-für-lichess-und-jitsi)
-* [Nutzung von Jitsi im Training](#nutzung-von-jitsi-im-training)
+* [Installation Software für Lichess und Zoom](#installation-software-für-lichess-und-jitsi)
+* [Nutzung von Zoom im Training](#nutzung-von-jitsi-im-training)
 * [Nutzung von Lichess im Training](#nutzung-von-lichess-im-training)
 * [Trainingsszenarien für Lichess und Jitsi](#trainingsszenarien-für-lichess-und-jitsi)
 * [Übungen](#übungen)
@@ -25,20 +25,20 @@ Diese Datei enthält die Übersicht über den Workshop, der am 25. April 2026 mi
 Im Workshop werden in den 3 Unterrichtsstunden die folgenden Blöcke gemacht werden:
 
 1. Übersicht, Rundgang durch alle Tools, Konzepte.
-2. Training mit Lichess und Jitsi, Teilnehmer erfahren selbst, wie ein Training abläuft, und auch wie die Trainingsinhalte dazu erstellt werden.
+2. Training mit Lichess und Zoom, Teilnehmer erfahren selbst, wie ein Training abläuft, und auch wie die Trainingsinhalte dazu erstellt werden.
 3. Übungen, wie Training vorbereitet und durchgeführt wird.
 
 ## Für die Teilnehmer
 
-Teilnehmer des Workshops sollten folgende Schritte vorab durchgeführt haben:
+Teilnehmer des Workshops sollten folgende Schritte vorab durchgeführt haben (bzw. zu Beginn des Trainings tun):
 
 * Registrierung bei Lichess. Siehe das entsprechende [Kapitel hier](/docs/lichess.md#registrierung). Eine Anmeldung bei Lichess ist zwingend Voraussetzung für eine Teilnahme am Workshop. Einige Übungen sind erst möglich, wenn man bei Lichess registriert und angemeldet ist. (Sonst schaut man eben nur zu, kann dann höchstens als anonymer Teilnehmer teilnehmen.)
-* Wir nutzen aktuell Jitsi (statt früher Discord), von daher hat sich der Teil geändert. Die wesentlichen Hinweise findet man in [Kommunikation-Kapitel](/docs/communication/jitsi). Da wir im Online-Training Zoom nutzen, ersetzt Zoom (für uns) Jitsi. Keine Vorbereitung der Teilnehmer notwendig.
+* Wir nutzen aktuell (im Workshop) Zoom, im Verein Jitsi (statt früher Discord), von daher hat sich der Teil geändert. Die wesentlichen Hinweise findet man in [Kommunikations-Kapitel](/docs/communication/zoom). Da wir im Online-Training Zoom nutzen, ersetzt Zoom (für uns) Jitsi. Keine Vorbereitung der Teilnehmer notwendig.
 * Wir schauen dann im Workshop selbst, was von einer Anmeldung beeinflusst wird. Das ist wesentlich bei der Anmeldung in Lichess, kann aber auch eine Rolle bei Jitsi/Zoom/Discord/... spielen. 
 
-## Übersicht Lichess und Jitsi
+## Übersicht Lichess und Zoom
 
-Lichess und Jitsi sind zwei getrennte Anwendungen, die nichts miteinander zu tun haben. Von daher werden sie separat dargestellt, hier nur ein Überblick. Wichtig: Man hat die besten Ergebnisse, wenn beide im Browser laufen. Man sollte also gewohnt sein, die Tabs im Browser zu wechseln.
+Lichess und Zoom sind zwei getrennte Anwendungen, die nichts miteinander zu tun haben. Von daher werden sie separat dargestellt, hier nur ein Überblick. Wichtig: Man hat die besten Ergebnisse, wenn beide im Browser laufen. Man sollte also gewohnt sein, die Tabs im Browser zu wechseln.
 
 ### Übersicht Lichess
 
@@ -62,7 +62,7 @@ Lichess hat viele hundert Features, wir konzentrieren uns auf die, die beim Scha
 
 Alles Weitere zu Lichess findet man dann im [Referenzteil Lichess](/docs/lichess.md).
 
-### Aufruf von Jitsi
+### Aufruf von Zoom (oder Jitsi)
 
 Ihr bekommt zu Beginn des Workshops vom Trainer den Link zu einer offenen Jitsi-Session. Diesen müsst ihr im Browser eintippen. Alle Details zur Nutzung von Jitsi findet ihr im [Jitsi-Kapitel](/docs/communication/jitsi).
 
@@ -84,7 +84,7 @@ Jitsi ist ebenfalls eine Anwendung im Browser. Es gibt auf den verschiedenen Pla
 
 ## Nutzung von Jitsi im Training
 
-Jitsi wird im Training vor allem für das Teilen von Links und die Audio-Kommunikation eingesetzt. Alle Details zur Nutzung von Jitsi im Training findest du im [Jitsi-Kapitel](/docs/communication/jitsi).
+Jitsi wird im Training vor allem für das Teilen von Links und die Audio-Kommunikation eingesetzt. Alle Details zur Nutzung von Jitsi im Training findest du im [Jitsi-Kapitel](/docs/communication/jitsi). (Dasselbe gibt auch für Zoom gleichermaßen, siehe [Zoom-Kapitel](/docs/communication/zoom))
 
 ## Nutzung von Lichess im Training
 

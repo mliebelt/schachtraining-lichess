@@ -1,5 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 type FeatureItem = {
@@ -34,13 +35,17 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Discord',
-    link: 'docs/discord',
+    title: 'Kommunikation',
+    link: '/docs/communication/generell',
     Svg: require('@site/static/img/discord-icon.svg').default,
     description: (
       <>
-        Discord ist ein kleiner, aber wesentlicher Baustein. Läuft überall, kann auch von Kindern
-          schnell und zuverlässig bedient werden, und hat genau die Eigenschaften, die wir brauchen.
+        Für die Online-Kommunikation stehen vier Werkzeuge zur Verfügung. Jitsi ist die aktuell
+        primär verwendete Plattform; außerdem finden Sie hier Anleitungen zu{' '}
+        <Link to="/docs/communication/discord">Discord</Link>,{' '}
+        <Link to="/docs/communication/jitsi">Jitsi</Link>,{' '}
+        <Link to="/docs/communication/teams">Microsoft Teams</Link> und{' '}
+        <Link to="/docs/communication/zoom">Zoom</Link>.
       </>
     ),
   },
@@ -75,7 +80,7 @@ function Feature({title, link, Svg, description}: FeatureItem) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3><a href={link}>{title}</a></h3>
+        <h3><Link to={link}>{title}</Link></h3>
         <p>{description}</p>
       </div>
     </div>
