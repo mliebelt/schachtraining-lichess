@@ -24,9 +24,9 @@ Diese Datei enthält die Übersicht über den Workshop, der am 25. April 2026 mi
 
 Im Workshop werden in den 3 Unterrichtsstunden die folgenden Blöcke gemacht werden:
 
-1. Übersicht, Rundgang durch alle Tools, Konzepte.
-2. Training mit Lichess und Zoom, Teilnehmer erfahren selbst, wie ein Training abläuft, und auch wie die Trainingsinhalte dazu erstellt werden.
-3. Übungen, wie Training vorbereitet und durchgeführt wird.
+1. Übersicht, Rundgang durch alle Tools, Konzepte. (10 Minuten Übersicht (so dass alle Teilnehmer mitkommen), 30 Minuten ausprobieren (praktisch))
+2. Training mit Lichess und Zoom, Teilnehmer erfahren, wie die Trainingsinhalte erstellt werden (und wie man sie dann einsetzt). (45 Minuten, mit den wichtigsten Trainingsarten)
+3. Übungen, wie Training vorbereitet und durchgeführt wird (45 Minuten, nach Gusto)
 
 ## Für die Teilnehmer
 
