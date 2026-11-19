@@ -7,7 +7,7 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Schachunterricht mit Lichess und Discord online",
+  title: "Schachunterricht mit Lichess online",
   tagline: "Schach online ist coooool",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
