@@ -153,19 +153,3 @@ Das hier ist nur ein erster Hinweis, was wir alles schon probiert hatten:
 * Es ist gut, eine schriftliche Anleitung zur Verfügung zu haben. Dort sollten die wesentlichen Schritte beschrieben sein, die man dann systematisch testen kann.
 * Lichess funktioniert eigentlich immer. Das Einzige, was hier schiefgehen kann, ist, dass die Kinder sich nicht mehr an User-ID (kann der Lehrer wissen) oder Passwörter (sollte der Lehrer **nicht** wissen) erinnern. Man kann sich bei der Anmeldung in Lichess, wenn man sich an das Passwort nicht mehr erinnert, sich einen Änderungslink an seine E-Mail-Adresse schicken (an die man sich hoffentlich noch erinnert).
 * Für Jitsi (und andere Kommunikationstools) siehe das [Troubleshooting im Jitsi-Kapitel](/docs/communication/jitsi#einstellungen-und-troubleshooting).
-  
-## Zusammenfassung nach dem Kurs
-
-Wir hatten gestern den Kurs vor Ort, und haben nur Teile des möglichen Materials durchgenommen. Hier die wichtigsten Inhalte, samt den Links auf die Ressourcen:
-
-* [Studie mit Beispielen](https://lichess.org/study/GCFSwWx0) die wir während des Kurses benutzt haben. 
-* [Schachtraining mit Lichess](https://schachtraining-lichess-discord.netlify.app/) ist das gesamte Material auf dem Internet
-* [Workshop am 28.11.25](#f%C3%BCr-die-teilnehmer) der aktuelle Einstieg in den Kurs, kurz gezeigt (dieses Kapitel).
-* [2. Block im Training](#nutzung-von-lichess-im-training) dort findet man die wichtigsten
-* [ Trainingsszenarien](#trainingsszenarien-f%C3%BCr-lichess-und-jitsi) die man sich ansschauen sollte.
-* Zusätzliche Ressourcen
-  * Wie kann man Partien digitalisieren, oder Stellungen (aus Büchern, fotografiert) nach Lichess bringen? Der [Schachscanner](https://www.chessscanner.com/de) ist hier ein sehr nützliches Tool. Gibt es für das Handy (nur), die kostenfreie App kann alles, bis auf Partien speichern und nach Lichess / chess.com übertragen. Die App kostet aktuell 17€ im Jahr, und ist (für einen Trainer) jeden Cent wert.
-  * Wenn man nur Stellungen digitalisieren möchte, dann reicht auch [Chessvision.ai](https://chessvision.ai/). Die gibt es für das Handy und auch als Browser Plugin. Funktioniert sehr gut, auch der Übergang zu Lichess funktioniert problemlos.
-  * [ChessMint](https://beta.chessmint.app/) war der Tipp eines Trainers im Kurs, Markus hat keine Erfahrungen (bisher) damit. Damit kann man wohl aus FEN-Strings Aufgaben generieren lassen, in verschiedenen Darstellungen.
-  * [Schach-AG Online](https://schachclub-stetten.de/schach-ag-online/) war der erste Artikel (von einigen) auf unserer Website zum Thema. Eine Variante davon wurde [beim Schachbund eingereicht](https://www.schachbund.de/news/schach-dem-virus-online-training-fuer-kinder-mit-discord-und-lichess-beim-sc-stetten.html), für den wir sogar einen Preis bekommen haben. Dort kann man gut lesen, was die Motivation damals für die Online-Schach-AG war.
-  * [Was ist eine hybride Schach-AG](https://schachclub-stetten.de/hybride-schach-ag/) beschreibt, wie  man das Online-Material vor Ort einsetzen kann, ohne Anpassung. Das wird bei uns inzwischen hauptsächlich durchgeführt.
